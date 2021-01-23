@@ -3,7 +3,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-image: linear-gradient(50deg, #ffffff, #000000);
+    background-image: linear-gradient(50deg, rgb(161, 161, 196), rgb(57, 57, 71));
     color: white;
     text-align: center;
 }
